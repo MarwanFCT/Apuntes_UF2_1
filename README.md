@@ -4,8 +4,8 @@
 
  - [**INTRODUCCIÓN**](https://github.com/MarwanFCT/Apuntes_UF2_1/blob/main/README.md#introducci%C3%B3n)
  - [**PRUEBAS**](https://github.com/MarwanFCT/Apuntes_UF2_1/blob/main/README.md#pruebas)
- - [**INTEGRACIÓN**]()
- - [**CALIDAD**]()
+ - [**INTEGRACIÓN**](https://github.com/MarwanFCT/Apuntes_UF2_1/blob/main/README.md#integraci%C3%B3n)
+ - [**CALIDAD**](https://github.com/MarwanFCT/Apuntes_UF2_1/blob/main/README.md#calidad)
 
 
 #### INTRODUCCIÓN
