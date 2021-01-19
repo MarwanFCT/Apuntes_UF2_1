@@ -50,3 +50,4 @@ Existen varias formas de integración:
 Es una unidad de medida que se usa para determinar la cantidad de código que ha sido ejecutada en el transcurso de las pruebas, como podría ser evidente, cuánto mayor sea esta unidad, mejor. La cobertura se puede realizar tanto desde el IDE como desde un servicio web adiente para esta función.
 
 #### CALIDAD
+
