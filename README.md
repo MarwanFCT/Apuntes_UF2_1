@@ -38,4 +38,15 @@ Las pruebas se pueden clasificar de varias maneras:
 
 #### INTEGRACIÓN
 
+Existen varias formas de integración:
+
+- Integracion Big Bang: Son un tipo de prueba de integración en el que los elementos software, elementos hardware ó ambos son combinados de forma simultánea en un componente o un sistema global en lugar de hacerlo por fases.
+- Integracion Descendente: Son pruebas con un enfoque incremental de pruebas de integración donde el componente en el nivel más alto en la jerarquía es probado en primer lugar, con los componentes del nivel inferior siendo simulados mediante stubs.
+- Integracion Ascendente: Son pruebas que tienen un enfoque incremental para pruebas de integración donde los componentes de más bajo nivel son probados en primer lugar, posteriormente son utilizados para facilitar las pruebas de componentes de un nivel superior. 
+- Integracion Continua: La integración continua es una práctica del desarrollo de software ágil en la que los ingenieros van integrando los fragmentos de código que desarrollan poco a poco en lugar de hacerlo una vez concluido todo el proyecto. Como por ejemplo Jenkins, Bamboo, TravisCI o CircleCI.
+
+##### Cobertura Del Código
+
+Es una unidad de medida que se usa para determinar la cantidad de código que ha sido ejecutada en el transcurso de las pruebas, como podría ser evidente, cuánto mayor sea esta unidad, mejor. La cobertura se puede realizar tanto desde el IDE como desde un servicio web adiente para esta función.
+
 #### CALIDAD
