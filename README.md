@@ -51,3 +51,32 @@ Es una unidad de medida que se usa para determinar la cantidad de código que ha
 
 #### CALIDAD
 
+Las pruebas conforman también de un control de Calidad, dandonos una medida que representa la calidad del producto.
+
+En el control de Calidad se realizan dos procesos:
+
+- Quality Assurance: Garantización de Calidad
+- Quality Control: Control de Calidad
+
+La calidad se mide por el modelo de calidad de McCall, que define 11 factores de calidad para medir la misma.
+Se agrupan en 3 secciones:
+
+- **Operación del producto**
+Corrección: Mide el grado en que un programa cumple las especificaciones y consigue los objetivos del cliente.
+Fiabilidad: Mide el grado en que se puede esperar que un programa cumpla sus funciones sin fallar.
+Eficiencia: Mide la cantidad de recursos de nuestra PC y código empleado por un programa para cumplir su función.
+Seguridad: Mide el grado en que puede controlarse el acceso al software o a los datos por personal no autorizado.
+Facilidad de uso: Es el esfuerzo requerido para aprender lo que hace un programa y su funcionamiento.
+
+- **Revisión del producto**
+Mantenibilidad: Es la facilidad que se tiene para localizar y remediar errores.
+Flexibilidad: Es el esfuerzo requerido para modificar un sistema operativo.
+Facilidad de Prueba: Es el esfuerzo requerido para probar un programa.
+
+- **Transición del producto**
+Portabilidad: Es el esfuerzo requerido para transferir un software de un hardware o un entorno de sistemas a otro.
+Reusabilidad: Es el grado en que un programa o trozos del mismo son reutilizables para otros programas.
+Interoperatividad: Es el esfuerzo requerido para asociar un programa a otro.
+
+
+
