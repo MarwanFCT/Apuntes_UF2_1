@@ -62,7 +62,8 @@ La calidad se mide por el modelo de calidad de McCall, que define 11 factores de
 Se agrupan en 3 secciones:
 
 - **Operación del producto**
-- 
+
+
 Corrección: Mide el grado en que un programa cumple las especificaciones y consigue los objetivos del cliente.
 
 Fiabilidad: Mide el grado en que se puede esperar que un programa cumpla sus funciones sin fallar.
@@ -74,7 +75,8 @@ Seguridad: Mide el grado en que puede controlarse el acceso al software o a los 
 Facilidad de uso: Es el esfuerzo requerido para aprender lo que hace un programa y su funcionamiento.
 
 - **Revisión del producto**
-- 
+
+
 Mantenibilidad: Es la facilidad que se tiene para localizar y remediar errores.
 
 Flexibilidad: Es el esfuerzo requerido para modificar un sistema operativo.
@@ -82,6 +84,8 @@ Flexibilidad: Es el esfuerzo requerido para modificar un sistema operativo.
 Facilidad de Prueba: Es el esfuerzo requerido para probar un programa.
 
 - **Transición del producto**
+
+
 Portabilidad: Es el esfuerzo requerido para transferir un software de un hardware o un entorno de sistemas a otro.
 
 Reusabilidad: Es el grado en que un programa o trozos del mismo son reutilizables para otros programas.
